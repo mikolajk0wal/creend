@@ -1,4 +1,4 @@
-### Hi I am beginner full-stack developer from poland 👋
+### Hi I am beginner developer from poland 👋
 
 ### creend.github.io
 
