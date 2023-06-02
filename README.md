@@ -18,4 +18,7 @@ I'm Mikołaj, a 17-year-old aspiring junior web developer. Welcome to my GitHub 
 
 I'm passionate about web development and always eager to learn and collaborate. If you have any questions, suggestions, or just want to connect, feel free to reach out to me:
 
+📧 Email: m.kowal4242c@gmail.com
+
 📧 Email: creend42@gmail.com
+
