@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Mikołaj, a 17-year-old aspiring junior web developer. Welcome to my GitHub profile! Here you'll find some of my main projects. Feel free to explore.
+I'm Mikołaj, a 18-year-old web developer. Welcome to my GitHub profile! Here you'll find some of my main projects. Feel free to explore.
 
 ## Projects
 
