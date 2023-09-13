@@ -14,6 +14,10 @@ I'm Mikołaj, a 18-year-old web developer. Welcome to my GitHub profile! Here yo
 
 ⚡️ [RPS Game Backend](https://github.com/creend/RPS-Game-Backend): The backend server for the RPS Game Frontend. Built with Nest.js, TypeScript, and Socket.io for real-time communication and game logic.
 
+📚 [Code mastery Frontend](https://github.com/macias34/code-mastery-frontend): E-commerce course platform built in NEXT JS, created with my friend [macias](https://github.com/macias34)
+
+📝 [Code mastery Backend](https://github.com/macias34/code-mastery-backend): Backend built in Java (Spring Boot) for course platform, created with my friend [macias](https://github.com/macias34)
+
 ## Get in Touch
 
 I'm passionate about web development and always eager to learn and collaborate. If you have any questions, suggestions, or just want to connect, feel free to reach out to me:
