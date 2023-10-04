@@ -18,6 +18,9 @@ I'm Mikołaj, a 18-year-old web developer. Welcome to my GitHub profile! Here yo
 
 📝 [Code mastery Backend](https://github.com/macias34/code-mastery-backend): Backend built in Java (Spring Boot) for course platform, created with my friend [macias](https://github.com/macias34)
 
+🌴 [Podroże z hubertem - shop](https://sklep.podrozezhubertem.pl): Automated shop for polish travel agency in poland, with advanced admin management features. My participation was mostly about writing frontend (NextJS) and some tasks on Backend (Java, Spring Boot). 
+Application is created and beeing maintained by [TechWaves 🌊](https://github.com/tech-waves) team 😎
+
 ## Get in Touch
 
 I'm passionate about web development and always eager to learn and collaborate. If you have any questions, suggestions, or just want to connect, feel free to reach out to me:
