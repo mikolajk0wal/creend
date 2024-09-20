@@ -2,7 +2,7 @@
 
 I'm Mikołaj, a 19-year-old web developer. Welcome to my GitHub profile! Here you'll find some of my main projects. Feel free to explore.
 
-## Projects
+## Private Projects
 
 📚 [Library Application](https://github.com/creend/library): A web application for managing library resources built with NEXT.js, TypeScript, Prisma, MySQL, and TRPC.
 
@@ -17,6 +17,8 @@ I'm Mikołaj, a 19-year-old web developer. Welcome to my GitHub profile! Here yo
 📚 [Code mastery Frontend](https://github.com/macias34/code-mastery-frontend): E-commerce course platform built in NEXT JS, created with my friend [macias](https://github.com/macias34)
 
 📝 [Code mastery Backend](https://github.com/macias34/code-mastery-backend): Backend built in Java (Spring Boot) for course platform, created with my friend [macias](https://github.com/macias34)
+
+## Commercial Projects
 
 🌴 [Podroże z hubertem - shop](https://sklep.podrozezhubertem.pl): Automated shop for polish travel agency in poland, with advanced admin management features. My participation was about writing frontend in NextJS with TypeScript and also backend in Java (Spring Boot). 
 Application is created and beeing maintained by [CodeYourBrand](https://www.codeyourbrand.com/) team 😎
